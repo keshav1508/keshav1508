@@ -1,7 +1,7 @@
 ## Hi, I'm Keshav Dubey
 <b>Web Developer And App Developer</b>
 
-<a href="https://www.linkedin.com/in/amit-kumar-05a9291aa/">
+<a href="https://in.linkedin.com/in/keshav-dubey-b38933213">
   <img align="left" alt="Keshav Dubey Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
